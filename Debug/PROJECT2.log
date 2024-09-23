@@ -1,0 +1,9 @@
+﻿  PROJECT2.cpp
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.h(70,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.h(76,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.h(100,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.h(107,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.h(132,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.h(139,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.cpp(24,4): warning C4551: function call missing argument list
+C:\Users\DELL\source\repos\PROJECT2\PROJECT2.cpp(25,4): warning C4551: function call missing argument list
